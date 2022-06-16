@@ -1,4 +1,4 @@
-ALX - Simple Unix Like Shell
+git0;136;ALX - Simple Unix Like Shell
  C programming with ALX School!
 ================================================================================
 
@@ -12,7 +12,7 @@ Files containing Monty byte codes usually have the .m extension. Most of the ind
 Installation:
 clone the repository
 
-https://github.com/Sertsev/monty
+
 
 compile with
 
